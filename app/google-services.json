@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280449238322",
+    "firebase_url": "https://iot-led-8cd58.firebaseio.com",
+    "project_id": "iot-led-8cd58",
+    "storage_bucket": "iot-led-8cd58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280449238322:android:114deb4019157be854c32b",
+        "android_client_info": {
+          "package_name": "com.seventhmoon.iottest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280449238322-jm6tuqd1h5ksk45olm8vanus98fucfii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seventhmoon.iottest",
+            "certificate_hash": "a2a1418aa0461612dc55ef66d0d234f98d578d02"
+          }
+        },
+        {
+          "client_id": "280449238322-l9mpb2e5m1t4hu5jpcce2qrdbqsvlqo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORu8PJex51TLnOdbSYD8IDdxXkJAPBA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280449238322-l9mpb2e5m1t4hu5jpcce2qrdbqsvlqo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
